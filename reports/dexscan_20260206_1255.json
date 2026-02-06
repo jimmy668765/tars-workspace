@@ -1,0 +1,50 @@
+[
+  {
+    "symbol": "BSC",
+    "name": "Binance Santa Claus",
+    "address": "0x302806E92a40040Df74ad562923a8f6f96F74444",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "market_cap": 2364,
+    "liquidity": 4613.93,
+    "price_usd": "0.000002364",
+    "price_change_24h": 0.34,
+    "buys_24h": 2,
+    "sells_24h": 1,
+    "buy_ratio": 2.0,
+    "volume_24h": 11.9,
+    "url": "https://dexscreener.com/bsc/0xa40026325a003c89520bc1b007efa4949e78503b"
+  },
+  {
+    "symbol": "BSC",
+    "name": "Binance Smart Cat",
+    "address": "0x0C586F2039CE111e194b8164B5d2De18436E4444",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "market_cap": 5027,
+    "liquidity": 7155.52,
+    "price_usd": "0.000005027",
+    "price_change_24h": -10.35,
+    "buys_24h": 2,
+    "sells_24h": 0,
+    "buy_ratio": 2.0,
+    "volume_24h": 0.36,
+    "url": "https://dexscreener.com/bsc/0xb13554b0f5401864d28379bc326caba1a52e4254"
+  },
+  {
+    "symbol": "BSC",
+    "name": "BNB SUPER CYCLE",
+    "address": "0x6B4917a11BCb3BDCb545D79F211e81aa5835a3Ba",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "market_cap": 25055,
+    "liquidity": 24263.4,
+    "price_usd": "0.00002505",
+    "price_change_24h": -5.41,
+    "buys_24h": 13,
+    "sells_24h": 1,
+    "buy_ratio": 13.0,
+    "volume_24h": 5.57,
+    "url": "https://dexscreener.com/bsc/0xd16eee66969539ea67bb85d1a3412a1ff0e3310f"
+  }
+]

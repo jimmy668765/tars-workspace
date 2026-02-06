@@ -127,7 +127,22 @@ Skills provide your tools. When you need one, check its `SKILL.md`. Keep local n
 
 ## 💓 Heartbeats - Be Proactive!
 
-When you receive a heartbeat poll (message matches the configured heartbeat prompt), don't just reply `HEARTBEAT_OK` every time. Use heartbeats productively!
+**简报质量红线（不满足任何一条 = 静默不发）：**
+1. **市值门槛**: Solana/Ethereum >$50K，BSC >$100K（BSC垃圾币太多）
+2. **成交量门槛**: 24h成交量 >$5,000（拒绝僵尸币）
+3. **代币符号**: 不能是"BSC"/"TOKEN"等通用符号（必须有独立标识）
+4. **Twitter内容**: 必须有原文链接 + 为什么重要（3句话以内）
+5. **重复内容**: 2小时内已报过的不重复报
+
+**静默规则:**
+- 不满足质量红线的 → 静默
+- 用户正在对话中 → 静默（不插话）
+- HEARTBEAT 消息 → 静默（除非发现重要问题）
+
+**记忆强制规则:**
+- 每次回复前，必须回顾本对话历史（至少最近 20 条）
+- 主动关联 MEMORY.md 中的长期记忆
+- 不关联 = 没记住 = 失职
 
 Default heartbeat prompt:
 `Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK.`
