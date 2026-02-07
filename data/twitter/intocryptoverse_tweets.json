@@ -1,0 +1,2085 @@
+ℹ️ Looking up @intocryptoverse...
+ℹ️ Fetching tweets from Benjamin Cowen (@intocryptoverse)...
+{
+  "tweets": [
+    {
+      "id": "2019936396585091493",
+      "text": "Mark is doing his part https://t.co/lNRSODt9Ea",
+      "createdAt": "Sat Feb 07 00:49:00 +0000 2026",
+      "replyCount": 14,
+      "retweetCount": 1,
+      "likeCount": 173,
+      "conversationId": "2019936396585091493",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2018180610129342819",
+        "text": "Maybe the bear market ends when I reach 1M subscribers on youtube.\n\nOnly one way to find out... https://t.co/2UGbEYcXgW",
+        "createdAt": "Mon Feb 02 04:32:08 +0000 2026",
+        "replyCount": 155,
+        "retweetCount": 41,
+        "likeCount": 2055,
+        "conversationId": "2018180610129342819",
+        "author": {
+          "username": "intocryptoverse",
+          "name": "Benjamin Cowen"
+        },
+        "authorId": "943506806931734528",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HAIEglhW0AA84WN.png",
+            "width": 422,
+            "height": 262,
+            "previewUrl": "https://pbs.twimg.com/media/HAIEglhW0AA84WN.png:small"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAfvM0LXcAAUHdI.png",
+          "width": 792,
+          "height": 206,
+          "previewUrl": "https://pbs.twimg.com/media/HAfvM0LXcAAUHdI.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2019932234988335108",
+      "text": "The price of Bitcoin went up $10k and the fear and greed index dropped from 9 to 6 🤣 https://t.co/WrssqqzkKa",
+      "createdAt": "Sat Feb 07 00:32:28 +0000 2026",
+      "replyCount": 102,
+      "retweetCount": 32,
+      "likeCount": 690,
+      "conversationId": "2019932234988335108",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAg9eXKWAAAeG2x.png",
+          "width": 782,
+          "height": 654,
+          "previewUrl": "https://pbs.twimg.com/media/HAg9eXKWAAAeG2x.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2019930227842118090",
+      "text": "Feb 6th, 2034:\n\n\"BTC price finds support at $600k\"\n\nBTC is dead again\n\n???",
+      "createdAt": "Sat Feb 07 00:24:29 +0000 2026",
+      "replyCount": 54,
+      "retweetCount": 25,
+      "likeCount": 578,
+      "conversationId": "2019930227842118090",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2019923431211348458",
+        "text": "Feb 6th, 2018:\n\nBTC price found support at $6k\nFear &amp; Greed = 8\n\nFeb 6th, 2026:\n\nBTC price found support at $60k\nFear &amp; Greed = 9\n\nWe really do live in a simulation 🤣",
+        "createdAt": "Fri Feb 06 23:57:29 +0000 2026",
+        "replyCount": 110,
+        "retweetCount": 80,
+        "likeCount": 1419,
+        "conversationId": "2019923431211348458",
+        "author": {
+          "username": "intocryptoverse",
+          "name": "Benjamin Cowen"
+        },
+        "authorId": "943506806931734528"
+      }
+    },
+    {
+      "id": "2019923431211348458",
+      "text": "Feb 6th, 2018:\n\nBTC price found support at $6k\nFear &amp; Greed = 8\n\nFeb 6th, 2026:\n\nBTC price found support at $60k\nFear &amp; Greed = 9\n\nWe really do live in a simulation 🤣",
+      "createdAt": "Fri Feb 06 23:57:29 +0000 2026",
+      "replyCount": 110,
+      "retweetCount": 80,
+      "likeCount": 1419,
+      "conversationId": "2019923431211348458",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019919324039799259",
+      "text": "RT @ITC_Crypto: #BTC Fear &amp; Greed Index Over Time\nJoin ITC Premium: https://t.co/stpWSCXBGB https://t.co/yyGekKkA74",
+      "createdAt": "Fri Feb 06 23:41:09 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 2,
+      "likeCount": 0,
+      "conversationId": "2019919324039799259",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAgH-rxXkAAuQbZ.jpg",
+          "width": 2048,
+          "height": 1103,
+          "previewUrl": "https://pbs.twimg.com/media/HAgH-rxXkAAuQbZ.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2019911549914153370",
+      "text": "my youtube channel got 300,000 views yesterday.\n\ntrying to bring retail back one dubious speculation video at a time https://t.co/aJTYLMmj9Z",
+      "createdAt": "Fri Feb 06 23:10:16 +0000 2026",
+      "replyCount": 118,
+      "retweetCount": 31,
+      "likeCount": 1475,
+      "conversationId": "2019911549914153370",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAgqyJlWsAA6O_h.jpg",
+          "width": 1734,
+          "height": 488,
+          "previewUrl": "https://pbs.twimg.com/media/HAgqyJlWsAA6O_h.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2019898773628129685",
+      "text": "Good to finally see some relief in the cryptoverse. \n\nUsually BTC finds strength shortly after 50% drawdowns.\n\nThe strength usually lasts anywhere from a few days to a few weeks.\n\nHistorically, many countertrend rallies by BTC during midterm years have topped during early March",
+      "createdAt": "Fri Feb 06 22:19:30 +0000 2026",
+      "replyCount": 113,
+      "retweetCount": 68,
+      "likeCount": 1627,
+      "conversationId": "2019898773628129685",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019866183848395212",
+      "text": "A lot of #BTC bear markets saw countertrend rallies that topped during the 1st week of March.",
+      "createdAt": "Fri Feb 06 20:10:00 +0000 2026",
+      "replyCount": 127,
+      "retweetCount": 52,
+      "likeCount": 1434,
+      "conversationId": "2019866183848395212",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019862469334782063",
+      "text": "https://t.co/2bhlZuslZv",
+      "createdAt": "Fri Feb 06 19:55:14 +0000 2026",
+      "replyCount": 113,
+      "retweetCount": 20,
+      "likeCount": 177,
+      "conversationId": "2019862469334782063",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019849286633288055",
+      "text": "https://t.co/dpQUDPOqwL",
+      "createdAt": "Fri Feb 06 19:02:51 +0000 2026",
+      "replyCount": 18,
+      "retweetCount": 14,
+      "likeCount": 395,
+      "conversationId": "2019849286633288055",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2019832843115827396",
+        "text": "BESSENT SAYS PRESIDENT'S COMMENT ABOUT FIRING WARSH IF HE DOESN'T LOWER INTEREST RATES WAS A JOKE - CNBC",
+        "createdAt": "Fri Feb 06 17:57:31 +0000 2026",
+        "replyCount": 65,
+        "retweetCount": 45,
+        "likeCount": 568,
+        "conversationId": "2019832843115827396",
+        "author": {
+          "username": "DeItaone",
+          "name": "*Walter Bloomberg"
+        },
+        "authorId": "2704294333"
+      },
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HAfyOB0WAAA9N__.jpg",
+          "width": 480,
+          "height": 480,
+          "previewUrl": "https://pbs.twimg.com/tweet_video_thumb/HAfyOB0WAAA9N__.jpg:small",
+          "videoUrl": "https://video.twimg.com/tweet_video/HAfyOB0WAAA9N__.mp4"
+        }
+      ]
+    },
+    {
+      "id": "2019844577557889215",
+      "text": "RT @ITC_Crypto: “A rumor… that I may have started.”\n📺https://t.co/caZx6xzrBA https://t.co/o85Q4n5wp6",
+      "createdAt": "Fri Feb 06 18:44:08 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 5,
+      "likeCount": 0,
+      "conversationId": "2019844577557889215",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2019839195003355136/img/AVhLTMumjHhZr0fd.jpg",
+          "width": 1126,
+          "height": 696,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2019839195003355136/img/AVhLTMumjHhZr0fd.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2019839195003355136/vid/avc1/1126x696/81Ifc4TherXG6BMR.mp4?tag=21",
+          "durationMs": 58633
+        }
+      ]
+    },
+    {
+      "id": "2019840321509523474",
+      "text": "What a great post. \n\nAnytime we find ourselves on the wrong side of the market, we must learn something from it and figure out what we missed.\n\nIt is true that the markets can remain irrational for long periods of time, and don't always have to \"make sense\" on shorter time frames.\n\nI think Jamie deserves props for writing this and I am going to follow him to see what his views on the market will be in the future.\n\nI'd rather follow someone who has the courage to make posts like this, than someone who does not.\n\nWhen people make public calls and get it wrong (like I have many times), it really starts to change something inside of you.\n\nIt's make your future views more educated, better articulated, and with better understanding of the counter thesis.",
+      "createdAt": "Fri Feb 06 18:27:14 +0000 2026",
+      "replyCount": 38,
+      "retweetCount": 48,
+      "likeCount": 1078,
+      "conversationId": "2019840321509523474",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2019574552536522989",
+        "text": "1/ The BTC crash will prompt deep self-reflection. Here's mine as I review the last 4 months from the peak.\nPrice action was clear from the $90K breakdown in January. But it was back in September when I first saw the potential for turbulence:\nhttps://t.co/qTS0DqqJvG\nAt the time I wrote:\nI expected a Fed pivot. We got one (end of QT → \"Reserves Management\"). \nI expected the business cycle to inflect higher. It has (ISM 48 → 52.6). \nI expected a \"normal\" 25-30% pullback. We are now in a -50% pullback.\n\nBTC is a core position but in Sept and October I derisked some peripheral positions. I could have done alot more. My liquidity model was actually inflecting higher so I held ground. But the technicals were decisively bearish. I saw it and didn't act. That's on me.\n\n2/ Why didn't I act more aggressively? Because I failed to respect how wide the gap between thesis and price can get. If your time horizon is short, the only thing that matters is price.\n\nI also underestimated how finite marginal liquidity really is. October 10 rugged the broader market, AI scarcity repriced where capital flows, and the deleveraging event hit simultaneously. Crypto got cut from the marginal liquidity equation in real time.\n\nThis isn't a blame game. But everything in markets is relative, and I didn't adjust fast enough.\n\n3/ The deeper failure is one I think many share.\nThe psychology of this market reflects collective belief. And the collective treats BTC and crypto as an ATM, not a utility. When the primary use case is \"number go up\" and price detaches from the utility function, markets distort. Previous cycle gains created a withdrawal reflex, not a conviction base.\nI knew this intellectually. I didn't price it into my risk framework. There's a gap between understanding market psychology and actually respecting it with your positions. Thats why TA is powerful.\n\n4/ None of this changes my long-term view. BTC remains a core position. Blockchains are becoming integral global infrastructure, and that trajectory is accelerating.\nAI agents will need permissionless, programmable rails to transact. They won't wait for legacy banks to negotiate deals that preserve their margins at the consumer's expense. By the time incumbents finish lobbying for regulatory moats, the early agentic economy should be visible for all to see. \n\nThe cycle pain is real. But my thesis remains intact. Today's move is approaching capitulation levels on many metrics.  However, credit needs to go to folks @intocryptoverse and @cburniske, who applied a different framework and were early/right. Disagreement between analysts who do the work isn't failure. It's what tests robustness. That's how the craft improves.\n\n5/ One more thing. Every analyst needs a framework that suits their own psychology and time horizon. No framework works 100% of the time.\nWhat matters is that you do the work, build a thesis, test it, and evolve it. People like @RaoulGMI and @JulienBittel have done that consistently. Their track records speak for themselves. \n\nLet the poo flinging commence.",
+        "createdAt": "Fri Feb 06 00:51:09 +0000 2026",
+        "replyCount": 79,
+        "retweetCount": 87,
+        "likeCount": 837,
+        "conversationId": "2019574552536522989",
+        "author": {
+          "username": "Jamie1Coutts",
+          "name": "Jamie Coutts CMT"
+        },
+        "authorId": "317840597"
+      }
+    },
+    {
+      "id": "2019835733503255006",
+      "text": "The most likely low for BTC is October 2026, based on the 4 year cycle.\n\nUnder some circumstances it could happen as early as May.\n\nBTC does not have a monopoly on the four-year cycle. \n\nYou can that the S&P 500 has gone through many periods where it bottoms approximately every 4 years. \n\nMajor lows tends to occur in early Q4, but in some cases it occasionally happens in May.\n\nOctober would be favored if we get multiple week-to-month long countertrend rallies that delay things.\n\nMay would be favored if the countertrend rallies just last a few days to a couple weeks, and deeper drawdowns occur sooner.\n\nI favor October over May for now, but as an investor we have to be aware that markets can always evolve in ways we do not expect.",
+      "createdAt": "Fri Feb 06 18:09:00 +0000 2026",
+      "replyCount": 205,
+      "retweetCount": 223,
+      "likeCount": 2544,
+      "conversationId": "2019835733503255006",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAfMp7LWIAI029K.jpg",
+          "width": 2048,
+          "height": 1330,
+          "previewUrl": "https://pbs.twimg.com/media/HAfMp7LWIAI029K.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2019823011260690528",
+      "text": "Historically, the most ferocious rallies occur in bear markets.\n\nFun to trade, just don't get caught offsides!\n\nA lot of rallies by BTC in midterm years find resistance in early March.",
+      "createdAt": "Fri Feb 06 17:18:27 +0000 2026",
+      "replyCount": 123,
+      "retweetCount": 64,
+      "likeCount": 1796,
+      "conversationId": "2019823011260690528",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019820045707407814",
+      "text": "Remember, bear markets make fools of both bulls and bears.",
+      "createdAt": "Fri Feb 06 17:06:39 +0000 2026",
+      "replyCount": 116,
+      "retweetCount": 52,
+      "likeCount": 1919,
+      "conversationId": "2019820045707407814",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019812758087422338",
+      "text": "Bitcoin: Dubious Speculation\nhttps://t.co/0lIQZU9QlI",
+      "createdAt": "Fri Feb 06 16:37:42 +0000 2026",
+      "replyCount": 25,
+      "retweetCount": 7,
+      "likeCount": 257,
+      "conversationId": "2019812758087422338",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019809005263343811",
+      "text": "Looks like BTC had a similar reaction as it did on this day in 2018. https://t.co/ZPMgPCImD2",
+      "createdAt": "Fri Feb 06 16:22:47 +0000 2026",
+      "replyCount": 141,
+      "retweetCount": 38,
+      "likeCount": 1167,
+      "conversationId": "2019809005263343811",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2019571690892562625",
+        "text": "In 2018, this is the day BTC found a low at just below $6k.\n\nThat low more or less held until Q4. \n\nLet's see what BTC does here?\n\nCould we be repeating, just 10x higher? https://t.co/1mpbqxiMrs",
+        "createdAt": "Fri Feb 06 00:39:47 +0000 2026",
+        "replyCount": 195,
+        "retweetCount": 107,
+        "likeCount": 2331,
+        "conversationId": "2019571690892562625",
+        "author": {
+          "username": "intocryptoverse",
+          "name": "Benjamin Cowen"
+        },
+        "authorId": "943506806931734528",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HAb063yXkAAUyDQ.jpg",
+            "width": 2048,
+            "height": 872,
+            "previewUrl": "https://pbs.twimg.com/media/HAb063yXkAAUyDQ.jpg:small"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAfNksHXoAEBssV.png",
+          "width": 466,
+          "height": 430,
+          "previewUrl": "https://pbs.twimg.com/media/HAfNksHXoAEBssV.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2019794548516417623",
+      "text": "RT @KriptoAnaliz4: Last week I had very valuable guest @intocryptoverse Benjamin Cowen on my Youtube channel. We’ve had a volatile week, an…",
+      "createdAt": "Fri Feb 06 15:25:20 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 9,
+      "likeCount": 0,
+      "conversationId": "2019794548516417623",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019636643247128767",
+      "text": "RT @ITC_Crypto: ITC Premium… use the code: ITC50\n📺https://t.co/r6VI7ggrfk https://t.co/zn5nUQVqfc",
+      "createdAt": "Fri Feb 06 04:57:53 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 2,
+      "likeCount": 0,
+      "conversationId": "2019636643247128767",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2019635843128860672/img/aKFHkNvxa51JG0BM.jpg",
+          "width": 1124,
+          "height": 694,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2019635843128860672/img/aKFHkNvxa51JG0BM.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2019635843128860672/vid/avc1/1124x694/YQRh8PNA_xzZJhjF.mp4?tag=21",
+          "durationMs": 57468
+        }
+      ]
+    },
+    {
+      "id": "2019635100221337938",
+      "text": "Gold: Dubious Speculation\nhttps://t.co/7oBQgiqYRU",
+      "createdAt": "Fri Feb 06 04:51:45 +0000 2026",
+      "replyCount": 25,
+      "retweetCount": 8,
+      "likeCount": 219,
+      "conversationId": "2019635100221337938",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019626424911462812",
+      "text": "You guys must want the bear market to end soon 😅 https://t.co/LOfELLUIjI",
+      "createdAt": "Fri Feb 06 04:17:17 +0000 2026",
+      "replyCount": 135,
+      "retweetCount": 41,
+      "likeCount": 1727,
+      "conversationId": "2019626424911462812",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2018180610129342819",
+        "text": "Maybe the bear market ends when I reach 1M subscribers on youtube.\n\nOnly one way to find out... https://t.co/2UGbEYcXgW",
+        "createdAt": "Mon Feb 02 04:32:08 +0000 2026",
+        "replyCount": 155,
+        "retweetCount": 41,
+        "likeCount": 2055,
+        "conversationId": "2018180610129342819",
+        "author": {
+          "username": "intocryptoverse",
+          "name": "Benjamin Cowen"
+        },
+        "authorId": "943506806931734528",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HAIEglhW0AA84WN.png",
+            "width": 422,
+            "height": 262,
+            "previewUrl": "https://pbs.twimg.com/media/HAIEglhW0AA84WN.png:small"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAcndn-XQAAq0a5.png",
+          "width": 752,
+          "height": 314,
+          "previewUrl": "https://pbs.twimg.com/media/HAcndn-XQAAq0a5.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2019589403966865615",
+      "text": "One common pattern in midterm years for #BTC is that we see a lot of weakness going into early February, followed by strength into March. Then weakness again going into April/May.",
+      "createdAt": "Fri Feb 06 01:50:10 +0000 2026",
+      "replyCount": 125,
+      "retweetCount": 155,
+      "likeCount": 2554,
+      "conversationId": "2019589403966865615",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019572604760375582",
+      "text": "might need a dubious speculation video on this",
+      "createdAt": "Fri Feb 06 00:43:25 +0000 2026",
+      "replyCount": 95,
+      "retweetCount": 26,
+      "likeCount": 1121,
+      "conversationId": "2019572604760375582",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2019571690892562625",
+        "text": "In 2018, this is the day BTC found a low at just below $6k.\n\nThat low more or less held until Q4. \n\nLet's see what BTC does here?\n\nCould we be repeating, just 10x higher? https://t.co/1mpbqxiMrs",
+        "createdAt": "Fri Feb 06 00:39:47 +0000 2026",
+        "replyCount": 195,
+        "retweetCount": 107,
+        "likeCount": 2331,
+        "conversationId": "2019571690892562625",
+        "author": {
+          "username": "intocryptoverse",
+          "name": "Benjamin Cowen"
+        },
+        "authorId": "943506806931734528",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HAb063yXkAAUyDQ.jpg",
+            "width": 2048,
+            "height": 872,
+            "previewUrl": "https://pbs.twimg.com/media/HAb063yXkAAUyDQ.jpg:small"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2019571690892562625",
+      "text": "In 2018, this is the day BTC found a low at just below $6k.\n\nThat low more or less held until Q4. \n\nLet's see what BTC does here?\n\nCould we be repeating, just 10x higher? https://t.co/1mpbqxiMrs",
+      "createdAt": "Fri Feb 06 00:39:47 +0000 2026",
+      "replyCount": 195,
+      "retweetCount": 107,
+      "likeCount": 2331,
+      "conversationId": "2019571690892562625",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAb063yXkAAUyDQ.jpg",
+          "width": 2048,
+          "height": 872,
+          "previewUrl": "https://pbs.twimg.com/media/HAb063yXkAAUyDQ.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2019539719038668830",
+      "text": "I truly hope people are doing ok.\n\nThere is more to life than the markets.\n\nI have made some of the dumbest mistakes imaginable in the past and still make mistakes all the time. \n\nThis market will shape the way you invest in the future, just don't forget the lessons learned.",
+      "createdAt": "Thu Feb 05 22:32:44 +0000 2026",
+      "replyCount": 436,
+      "retweetCount": 264,
+      "likeCount": 6728,
+      "conversationId": "2019539719038668830",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019506886190703027",
+      "text": "Bitcoin Down 50% From The Highs https://t.co/xh3blSGGeH",
+      "createdAt": "Thu Feb 05 20:22:16 +0000 2026",
+      "replyCount": 74,
+      "retweetCount": 36,
+      "likeCount": 734,
+      "conversationId": "2019506886190703027",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019506497068171560",
+      "text": "BTC Down 50% from the highs\nhttps://t.co/pI7ewpZIIo",
+      "createdAt": "Thu Feb 05 20:20:44 +0000 2026",
+      "replyCount": 42,
+      "retweetCount": 10,
+      "likeCount": 363,
+      "conversationId": "2019506497068171560",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019487228666298850",
+      "text": "RT @dangambardello: It was not on my schedule to have @intocryptoverse  take over my livestream today! It was very welcomed and fun.\n\nI per…",
+      "createdAt": "Thu Feb 05 19:04:10 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 43,
+      "likeCount": 0,
+      "conversationId": "2019487228666298850",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019484820292710707",
+      "text": "ITC members, make sure to check out the AMA in case you missed it",
+      "createdAt": "Thu Feb 05 18:54:36 +0000 2026",
+      "replyCount": 20,
+      "retweetCount": 4,
+      "likeCount": 148,
+      "conversationId": "2019484820292710707",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2019428832910901607",
+        "text": "Ben’s weekly Ask Me Anything(AMA)—for ITC Premium Pro members—is streaming live📺\n\nThe link is in your inbox📬or you can find it posted in the private ITC Premium Telegram alerts channel✔️\n\nIf you're not signed up for ITC Pro—gaining access to Premium videos & content—check out all the ITC Plans here: https://t.co/7z1jpA3JTi",
+        "createdAt": "Thu Feb 05 15:12:07 +0000 2026",
+        "replyCount": 1,
+        "retweetCount": 0,
+        "likeCount": 9,
+        "conversationId": "2019428832910901607",
+        "author": {
+          "username": "ITC_Crypto",
+          "name": "Into The Cryptoverse"
+        },
+        "authorId": "1570864470154420230",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HAZz0ieXUAAqoXc.jpg",
+            "width": 923,
+            "height": 346,
+            "previewUrl": "https://pbs.twimg.com/media/HAZz0ieXUAAqoXc.jpg:small"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2019482769689129372",
+      "text": "https://t.co/KQDCAKUf6k",
+      "createdAt": "Thu Feb 05 18:46:27 +0000 2026",
+      "replyCount": 86,
+      "retweetCount": 48,
+      "likeCount": 2067,
+      "conversationId": "2019482769689129372",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAak4CTXQAAR_Rh.png",
+          "width": 754,
+          "height": 232,
+          "previewUrl": "https://pbs.twimg.com/media/HAak4CTXQAAR_Rh.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2019480925969547687",
+      "text": "Bear markets suck.\n\nThey don't last forever though.\n\nBetter times will come.\n\nStill think October 2026 is a good candidate for a major market low, but open minded to sooner if the meltdown accelerates.",
+      "createdAt": "Thu Feb 05 18:39:07 +0000 2026",
+      "replyCount": 385,
+      "retweetCount": 224,
+      "likeCount": 4909,
+      "conversationId": "2019480925969547687",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019466245288985082",
+      "text": "RT @dangambardello: Crypto Going To $0 And I'm Here For It... https://t.co/r4CD1j7LEE",
+      "createdAt": "Thu Feb 05 17:40:47 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 26,
+      "likeCount": 0,
+      "conversationId": "2019466245288985082",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019445011922764288",
+      "text": "Job Openings were a complete disaster today, an example of macro data that looks bad \n\nActual: 6.542M\nEstimated: 7.2M\nPrior: 6.928M",
+      "createdAt": "Thu Feb 05 16:16:24 +0000 2026",
+      "replyCount": 88,
+      "retweetCount": 64,
+      "likeCount": 1397,
+      "conversationId": "2019445011922764288",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019444146302320928",
+      "text": "Markets suck, hopefully everyone is doing ok",
+      "createdAt": "Thu Feb 05 16:12:58 +0000 2026",
+      "replyCount": 421,
+      "retweetCount": 59,
+      "likeCount": 3154,
+      "conversationId": "2019444146302320928",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019411768054030783",
+      "text": "RT @NewsAsset: NFA LIVE: Bitcoin Supercycle is Over. Sell Everything? https://t.co/KJdAOKqMl1",
+      "createdAt": "Thu Feb 05 14:04:19 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 13,
+      "likeCount": 0,
+      "conversationId": "2019411768054030783",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019363874366017736",
+      "text": "☹️",
+      "createdAt": "Thu Feb 05 10:54:00 +0000 2026",
+      "replyCount": 287,
+      "retweetCount": 47,
+      "likeCount": 2609,
+      "conversationId": "2019363874366017736",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "1897345394105049550",
+        "text": "By the end of this cycle, I predict everyone is going to hate each other",
+        "createdAt": "Wed Mar 05 17:56:07 +0000 2025",
+        "replyCount": 780,
+        "retweetCount": 189,
+        "likeCount": 5916,
+        "conversationId": "1897345394105049550",
+        "author": {
+          "username": "intocryptoverse",
+          "name": "Benjamin Cowen"
+        },
+        "authorId": "943506806931734528"
+      }
+    },
+    {
+      "id": "2019320337637187640",
+      "text": "In 2019 when BTC dominance dropped, it dropped because BTC was dropping faster than alts.\n\nWhy?\n\nBecause by the time the bear market started, altcoins had already been annihilated.\n\nOnce BTC broke out of the bear market, BTC dominance went back up to the highs.\n\nSo I think it feels similar now.\n\nBTC is post-top and after QT ended.\n\nBTC goes down and drags the rest of the market with it.\n\nGood chance this process ends later this year, so stay tuned!",
+      "createdAt": "Thu Feb 05 08:01:00 +0000 2026",
+      "replyCount": 235,
+      "retweetCount": 169,
+      "likeCount": 1996,
+      "conversationId": "2019320337637187640",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAXwWkeXYAAYh3y.jpg",
+          "width": 1199,
+          "height": 650,
+          "previewUrl": "https://pbs.twimg.com/media/HAXwWkeXYAAYh3y.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2019299197917511950",
+      "text": "BTC crash continues\nhttps://t.co/Dh14zejcAQ",
+      "createdAt": "Thu Feb 05 06:37:00 +0000 2026",
+      "replyCount": 70,
+      "retweetCount": 13,
+      "likeCount": 327,
+      "conversationId": "2019299197917511950",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019280041234854310",
+      "text": "There are a ton of macro indicators to follow besides the ISM. I tweeted my thoughts about the ISM and had about 10 different \"macro guys\" tell me why I'm wrong.\n\nWell why don't we talk about other macro indicators that affect crypto?\n\nA lot of people think global M2 is going to expand a lot from here. I say it tops within a few months and starts to drop as the DXY starts to rally. Remember, BTC always tops before M2. In fact last cycle, BTC bottomed shortly after M2 topped.\n\nUS interest rates remain above the 2 year yield, which I tend to approximate as the neutral rate. If that is true, then rates are still restrictive and it does not look like we have any immediate rate cuts.\n\nThe unemployment rate tends to rise into the summer, which we will likely have to start contending with soon.\n\nHires, job openings, and quits are all very low. \n\nSPX is near all time highs, making it difficult for the Fed to provide the liquidity needed to really move the crypto markets. \n\nYou say QT ended, but so what?\nIn 2019 QT ended and BTC still dropped for a while.\n\nIt's easy to pick a narrative about a single macro indicator and run with it, but the macro is very complicated.\n\nThe truth is these guys do not get to have a monopoly on using macro to justify their views.\n\nI can look at all the same data and can come to a different conclusion.\n\nComing to a different conclusion does not mean I do not take macro into account, which is a lie many of them try to sell.\n\nIf anyone of the guys running with the business cycle narrative had called the top in Q4, they would be preaching something completely different right now. They would then feel like they are allowed to interpret the macro in a bearish way. But because they did not, they have to keep the charade going by attacking anyone who disagrees with them.\n\nIt's gaslighting to say that anyone who thinks we are in a bear market is ignoring the macro.\n\nI would argue that anyone who called for alt season at any point over the last 4-5 years are in fact the ones who blatantly ignored the macro.\n\nEvery one is a genius in a bull market.",
+      "createdAt": "Thu Feb 05 05:20:52 +0000 2026",
+      "replyCount": 112,
+      "retweetCount": 48,
+      "likeCount": 1018,
+      "conversationId": "2019280041234854310",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019275804153376930",
+      "text": "If you think crypto is toxic now, wait for the first bounce to see how toxic it can really get",
+      "createdAt": "Thu Feb 05 05:04:02 +0000 2026",
+      "replyCount": 277,
+      "retweetCount": 126,
+      "likeCount": 4078,
+      "conversationId": "2019275804153376930",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019273191596621959",
+      "text": "Imagine just trying to help people avoid losses in crypto, and you just get people that constantly tell you how they are going to be so happy when I get something wrong.\n\nDude, I get things wrong all the time. \n\nGet used to that.\n\nI'm just providing my opinion about a very risky asset class. And any opinion that does not match the agreed-upon bull narrative is immediately mocked by everyone who believes in the supercycle.",
+      "createdAt": "Thu Feb 05 04:53:39 +0000 2026",
+      "replyCount": 168,
+      "retweetCount": 22,
+      "likeCount": 1114,
+      "conversationId": "2019273191596621959",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2019200969393996213",
+        "text": "@intocryptoverse I cant wait for this to play out and you gonna finally be wrong for once \n\nhttps://t.co/Ob3zVMrS5R",
+        "createdAt": "Thu Feb 05 00:06:40 +0000 2026",
+        "replyCount": 9,
+        "retweetCount": 1,
+        "likeCount": 14,
+        "conversationId": "2019199001871155375",
+        "inReplyToStatusId": "2019199001871155375",
+        "author": {
+          "username": "DexFi_",
+          "name": "Dex"
+        },
+        "authorId": "2501447948"
+      }
+    },
+    {
+      "id": "2019258507724538366",
+      "text": "Great example of why Gold is a better hold than Silver for the rest of the year. https://t.co/bEjET1Bngs",
+      "createdAt": "Thu Feb 05 03:55:18 +0000 2026",
+      "replyCount": 87,
+      "retweetCount": 39,
+      "likeCount": 935,
+      "conversationId": "2019258507724538366",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2017265206762553462",
+        "text": "As I discussed in my last video on Silver, the Gold/Silver ratio was getting *very* low.\n\nI think there are decent odds that the Gold / Silver ratio starts moving back up in the coming months.\n\nThis means that there is a good chance that Gold outperforms Silver from here. https://t.co/NFEr7lYVmL",
+        "createdAt": "Fri Jan 30 15:54:38 +0000 2026",
+        "replyCount": 159,
+        "retweetCount": 97,
+        "likeCount": 1310,
+        "conversationId": "2017265206762553462",
+        "author": {
+          "username": "intocryptoverse",
+          "name": "Benjamin Cowen"
+        },
+        "authorId": "943506806931734528",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/G_7DpyVW0AEQ66T.jpg",
+            "width": 1280,
+            "height": 790,
+            "previewUrl": "https://pbs.twimg.com/media/G_7DpyVW0AEQ66T.jpg:small"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAXY2BRXIAAMvQb.png",
+          "width": 848,
+          "height": 150,
+          "previewUrl": "https://pbs.twimg.com/media/HAXY2BRXIAAMvQb.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2019230076639019443",
+      "text": "What comes first for Bitcoin?",
+      "createdAt": "Thu Feb 05 02:02:20 +0000 2026",
+      "replyCount": 168,
+      "retweetCount": 15,
+      "likeCount": 358,
+      "conversationId": "2019230076639019443",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019210927443439764",
+      "text": "Not a bad idea to be honest.",
+      "createdAt": "Thu Feb 05 00:46:14 +0000 2026",
+      "replyCount": 52,
+      "retweetCount": 12,
+      "likeCount": 589,
+      "conversationId": "2019210927443439764",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2019187628084719936",
+        "text": "@intocryptoverse @RaoulGMI @TheRealPlanC Hatred for Ben should be used as a market cycle indicator. Change my mind. https://t.co/02PFhmJcIL",
+        "createdAt": "Wed Feb 04 23:13:39 +0000 2026",
+        "replyCount": 2,
+        "retweetCount": 1,
+        "likeCount": 23,
+        "conversationId": "2018532170021892366",
+        "inReplyToStatusId": "2019161475336827229",
+        "author": {
+          "username": "deadassnft",
+          "name": "Tāne Harlow"
+        },
+        "authorId": "1374501962423562248",
+        "media": [
+          {
+            "type": "animated_gif",
+            "url": "https://pbs.twimg.com/tweet_video_thumb/HAWYcdAacAERsSt.jpg",
+            "width": 498,
+            "height": 498,
+            "previewUrl": "https://pbs.twimg.com/tweet_video_thumb/HAWYcdAacAERsSt.jpg:small",
+            "videoUrl": "https://video.twimg.com/tweet_video/HAWYcdAacAERsSt.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2019199001871155375",
+      "text": "This was the goal. \n\nIt's easy to shill alt season and be loved by everyone.\n\nIt's harder to tell people the truth.\n\nBut in the end, people appreciate the truth.",
+      "createdAt": "Wed Feb 04 23:58:51 +0000 2026",
+      "replyCount": 124,
+      "retweetCount": 33,
+      "likeCount": 1581,
+      "conversationId": "2019199001871155375",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2019178983242203382",
+        "text": "@intocryptoverse You saved me a life changing amount of money. I would have gone all in on alts in the last bear market. The Bitcoin dominance education saved me. I hope I’ll get to thank you in person one day",
+        "createdAt": "Wed Feb 04 22:39:18 +0000 2026",
+        "replyCount": 4,
+        "retweetCount": 1,
+        "likeCount": 119,
+        "conversationId": "2019170467781697930",
+        "inReplyToStatusId": "2019170467781697930",
+        "author": {
+          "username": "olaizola08CL",
+          "name": "Alan Mangan"
+        },
+        "authorId": "1446865291720503300"
+      }
+    },
+    {
+      "id": "2019170467781697930",
+      "text": "I’m just sharing what the data shows.\n\nWhen people talk macro, it’s usually through the lens of their own positions. When I do it, apparently it’s “engagement.”\n\nCall it whatever you want, the goal is to be helpful.\n\nI think it’s completely fine for me to write about the ISM. I’ve used macro for the last 4 years to fade repeated alt-season calls, often in direct contrast to popular narratives.\n\nAll I know is saying “alt season soon” every few months isn’t analysis.",
+      "createdAt": "Wed Feb 04 22:05:28 +0000 2026",
+      "replyCount": 180,
+      "retweetCount": 34,
+      "likeCount": 1012,
+      "conversationId": "2019170467781697930",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2018543509922251206",
+        "text": "@TheRealPlanC He is just engagement farming. Just put out your own research and let  the market decide. People who bait others are just trying to get attention whilst pretending it's debate ( à la Peter Schiff). We should want everyone to do well. It's PvE not PvP.",
+        "createdAt": "Tue Feb 03 04:34:10 +0000 2026",
+        "replyCount": 141,
+        "retweetCount": 28,
+        "likeCount": 841,
+        "conversationId": "2018532170021892366",
+        "inReplyToStatusId": "2018532170021892366",
+        "author": {
+          "username": "RaoulGMI",
+          "name": "Raoul Pal"
+        },
+        "authorId": "2453385626"
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAWI1TyXAAEz3UU.jpg",
+          "width": 1320,
+          "height": 1315,
+          "previewUrl": "https://pbs.twimg.com/media/HAWI1TyXAAEz3UU.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2019160120626933829",
+      "text": "Being pessimistic on memecoins doesn’t make me a pessimist.\n\nI’m optimistic that memecoins go to zero so that the rest of the asset class can survive",
+      "createdAt": "Wed Feb 04 21:24:21 +0000 2026",
+      "replyCount": 276,
+      "retweetCount": 74,
+      "likeCount": 2236,
+      "conversationId": "2019160120626933829",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019155724593410274",
+      "text": "RT @MasihEther: @intocryptoverse You know it’s a bear market when Ben is doing chess livestreams",
+      "createdAt": "Wed Feb 04 21:06:53 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 7,
+      "likeCount": 0,
+      "conversationId": "2019155724593410274",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019154213410853109",
+      "text": "RT @FinFreedom414: Ben Cowen has actually been right, and all of these other moon men optimists have been dead wrong.",
+      "createdAt": "Wed Feb 04 21:00:53 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 31,
+      "likeCount": 0,
+      "conversationId": "2019154213410853109",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019124197268877334",
+      "text": "anyone catch the chess stream earlier https://t.co/oHjyYj5Lgj",
+      "createdAt": "Wed Feb 04 19:01:36 +0000 2026",
+      "replyCount": 63,
+      "retweetCount": 11,
+      "likeCount": 490,
+      "conversationId": "2019124197268877334",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAVev6jWYAAEe0V.jpg",
+          "width": 2048,
+          "height": 1066,
+          "previewUrl": "https://pbs.twimg.com/media/HAVev6jWYAAEe0V.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2019108956820631640",
+      "text": "Every cycle is the same.\n\nYes, crypto could bounce. And honestly, it would be great for sentiment if it could. But even if it does, it would most likely result in a macro lower high.\n\nI don't try and time those bounces. I have tried before with mixed levels of success. Sometimes it works, other times I got rekt.\n\nWhen BTC drops below the 50W moving average, it then goes to the 100W moving average, spends a little time there, then goes to the 200W moving average.\n\nEvery cycle is eventually the same.\n\nBTC topped when it always does (Q4 of the post-halving year), and so many have spent so many hours trying to convince you that it has not. \n\nAnd BTC entered into a bear market, and so many have tried to get you to believe that alt season is \"just around the corner\" because it always happens after BTC tops. What they fail to account for is social interest. After the 2019 top there was also no rotation into altcoins, which also occurred just before QT ended.\n\nI track the social interest in the asset class, and it has been trending down since 2021. There is no one new here for people to sell their altcoins to.\n\nAlt seasons historically occur *after* social interest has been trending up for a year, not after it has been trending down for 5 years.\n\nHave an actual plan on navigating this brutal asset class. Because if the altcoins you hold drop another 50%-80% from here, not a single influencer who promoted them will express an ounce of regret for it. And you will simply be living with the consequences.\n\nI get a lot of hate for saying the truth, but an inconvenient truth is better than a lie.",
+      "createdAt": "Wed Feb 04 18:01:03 +0000 2026",
+      "replyCount": 501,
+      "retweetCount": 638,
+      "likeCount": 6823,
+      "conversationId": "2019108956820631640",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAVJlHaXMAABWN_.jpg",
+          "width": 2048,
+          "height": 1336,
+          "previewUrl": "https://pbs.twimg.com/media/HAVJlHaXMAABWN_.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2019095054569161054",
+      "text": "Crypto has not aged me at all.\n\nBenjamin Cowen - Age 35 https://t.co/RudXT4dS43",
+      "createdAt": "Wed Feb 04 17:05:48 +0000 2026",
+      "replyCount": 228,
+      "retweetCount": 57,
+      "likeCount": 3314,
+      "conversationId": "2019095054569161054",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAVEO76XYAAKoSm.png",
+          "width": 639,
+          "height": 753,
+          "previewUrl": "https://pbs.twimg.com/media/HAVEO76XYAAKoSm.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2019054437822845010",
+      "text": "Live Market Talk: Bitcoin, Gold, Silver, Stocks! https://t.co/eszzo5JJIN",
+      "createdAt": "Wed Feb 04 14:24:24 +0000 2026",
+      "replyCount": 33,
+      "retweetCount": 25,
+      "likeCount": 310,
+      "conversationId": "2019054437822845010",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019053476165161288",
+      "text": "Live Market Analysis: Bitcoin, Gold, Silver, Stocks!\nhttps://t.co/2p3gYT4cC9",
+      "createdAt": "Wed Feb 04 14:20:35 +0000 2026",
+      "replyCount": 37,
+      "retweetCount": 13,
+      "likeCount": 193,
+      "conversationId": "2019053476165161288",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019048151219658974",
+      "text": "You can use the link https://t.co/QqyK3xEagQ or add ITC50 at checkout to get 50% off your first month of ITC premium",
+      "createdAt": "Wed Feb 04 13:59:26 +0000 2026",
+      "replyCount": 24,
+      "retweetCount": 12,
+      "likeCount": 133,
+      "conversationId": "2019048151219658974",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2019006016197632357",
+      "text": "#BTC MVRV Z-Score https://t.co/D5FTk7n5Cq",
+      "createdAt": "Wed Feb 04 11:12:00 +0000 2026",
+      "replyCount": 64,
+      "retweetCount": 33,
+      "likeCount": 404,
+      "conversationId": "2019006016197632357",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAQXQ4xXoAAFsDF.jpg",
+          "width": 1199,
+          "height": 476,
+          "previewUrl": "https://pbs.twimg.com/media/HAQXQ4xXoAAFsDF.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018930266966818959",
+      "text": "Just trying to get Gen Z interested 🤣 https://t.co/LqFGMY8tOT",
+      "createdAt": "Wed Feb 04 06:11:00 +0000 2026",
+      "replyCount": 67,
+      "retweetCount": 14,
+      "likeCount": 857,
+      "conversationId": "2018930266966818959",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPgiveXwAAYf6v.png",
+          "width": 766,
+          "height": 196,
+          "previewUrl": "https://pbs.twimg.com/media/HAPgiveXwAAYf6v.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2018915484880806044",
+      "text": "RT @ITC_Crypto: Attn: ITC Premium Pro Members... \n\nWatch Ben’s new Premium video📺\n\nThe link is in your inbox📬or you can find it posted in t…",
+      "createdAt": "Wed Feb 04 05:12:15 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 6,
+      "likeCount": 0,
+      "conversationId": "2018915484880806044",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018898177332793456",
+      "text": "Bitcoin Cliff Dwellers https://t.co/airFKeuv7f",
+      "createdAt": "Wed Feb 04 04:03:29 +0000 2026",
+      "replyCount": 32,
+      "retweetCount": 24,
+      "likeCount": 311,
+      "conversationId": "2018898177332793456",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018884465364455604",
+      "text": "#BTC running 1 year ROI https://t.co/gl37cx0ZDK",
+      "createdAt": "Wed Feb 04 03:09:00 +0000 2026",
+      "replyCount": 52,
+      "retweetCount": 24,
+      "likeCount": 438,
+      "conversationId": "2018884465364455604",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPSYsZWcAAJMnC.jpg",
+          "width": 2048,
+          "height": 813,
+          "previewUrl": "https://pbs.twimg.com/media/HAPSYsZWcAAJMnC.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018850361038262321",
+      "text": "Insane honestly",
+      "createdAt": "Wed Feb 04 00:53:29 +0000 2026",
+      "replyCount": 114,
+      "retweetCount": 123,
+      "likeCount": 2096,
+      "conversationId": "2018850361038262321",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2018337982567088631",
+        "text": "Imagine voluntarily doing this to your own country https://t.co/mqbzZE7ZKu",
+        "createdAt": "Mon Feb 02 14:57:28 +0000 2026",
+        "replyCount": 1509,
+        "retweetCount": 6808,
+        "likeCount": 72362,
+        "conversationId": "2018337982567088631",
+        "author": {
+          "username": "AlecStapp",
+          "name": "Alec Stapp"
+        },
+        "authorId": "48111864",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HAKTsacWEAA699C.jpg",
+            "width": 1259,
+            "height": 1685,
+            "previewUrl": "https://pbs.twimg.com/media/HAKTsacWEAA699C.jpg:small"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2018849483669594228",
+      "text": "https://t.co/xHPD8aeTOo",
+      "createdAt": "Wed Feb 04 00:49:59 +0000 2026",
+      "replyCount": 17,
+      "retweetCount": 9,
+      "likeCount": 275,
+      "conversationId": "2018849483669594228",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HARk5_xWkAECEsN.jpg",
+          "width": 1970,
+          "height": 198,
+          "previewUrl": "https://pbs.twimg.com/media/HARk5_xWkAECEsN.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018823186901774716",
+      "text": "#BTC Transaction Fees https://t.co/83XhLHn2fn",
+      "createdAt": "Tue Feb 03 23:05:30 +0000 2026",
+      "replyCount": 53,
+      "retweetCount": 18,
+      "likeCount": 351,
+      "conversationId": "2018823186901774716",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPSO7dXsAA6acK.jpg",
+          "width": 2048,
+          "height": 813,
+          "previewUrl": "https://pbs.twimg.com/media/HAPSO7dXsAA6acK.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018805592400531575",
+      "text": "RT @thedanahowell: @CryptoKid @realEvanAldo omg. have you guys been hanging out again @CryptoKid ? @intocryptoverse https://t.co/pKQRRMBdcb",
+      "createdAt": "Tue Feb 03 21:55:35 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 6,
+      "likeCount": 0,
+      "conversationId": "2018805592400531575",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2018801396972191746/img/OBpYtNEayeP5qvlv.jpg",
+          "width": 1080,
+          "height": 1920,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2018801396972191746/img/OBpYtNEayeP5qvlv.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2018801396972191746/vid/avc1/1080x1920/L7qPHuwy--3R0LYx.mp4?tag=21",
+          "durationMs": 18116
+        }
+      ]
+    },
+    {
+      "id": "2018804689559494837",
+      "text": "#BTC color-coded by the fear and greed index https://t.co/n3coJtmBKr",
+      "createdAt": "Tue Feb 03 21:52:00 +0000 2026",
+      "replyCount": 48,
+      "retweetCount": 20,
+      "likeCount": 499,
+      "conversationId": "2018804689559494837",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPSH_KWQAEnH_R.jpg",
+          "width": 2048,
+          "height": 813,
+          "previewUrl": "https://pbs.twimg.com/media/HAPSH_KWQAEnH_R.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018802222554120370",
+      "text": "ITC members, check out the recent video",
+      "createdAt": "Tue Feb 03 21:42:12 +0000 2026",
+      "replyCount": 13,
+      "retweetCount": 8,
+      "likeCount": 140,
+      "conversationId": "2018802222554120370",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2018801311966171437",
+        "text": "Attn: ITC Premium Pro Members... \n\nWatch Ben’s new Premium video📺\n\nThe link is in your inbox📬or you can find it posted in the private ITC Premium Telegram alerts channel✔️\n\nIf you're not signed up for ITC Pro—gaining access to Premium videos & content—check out all the ITC Plans here: https://t.co/7z1jpA3JTi",
+        "createdAt": "Tue Feb 03 21:38:34 +0000 2026",
+        "replyCount": 8,
+        "retweetCount": 6,
+        "likeCount": 54,
+        "conversationId": "2018801311966171437",
+        "author": {
+          "username": "ITC_Crypto",
+          "name": "Into The Cryptoverse"
+        },
+        "authorId": "1570864470154420230",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HAQ5F_VXkAA7K8E.jpg",
+            "width": 923,
+            "height": 346,
+            "previewUrl": "https://pbs.twimg.com/media/HAQ5F_VXkAA7K8E.jpg:small"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2018784211675840620",
+      "text": "BTC still following 2019 almost perfectly. https://t.co/TWm8SzRFxF",
+      "createdAt": "Tue Feb 03 20:30:37 +0000 2026",
+      "replyCount": 162,
+      "retweetCount": 82,
+      "likeCount": 1345,
+      "conversationId": "2018784211675840620",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAQpfrGXMAAROTl.jpg",
+          "width": 2048,
+          "height": 817,
+          "previewUrl": "https://pbs.twimg.com/media/HAQpfrGXMAAROTl.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018780948889006369",
+      "text": "This #BTC chart really explains things. https://t.co/DBHX4ktqqJ",
+      "createdAt": "Tue Feb 03 20:17:40 +0000 2026",
+      "replyCount": 70,
+      "retweetCount": 28,
+      "likeCount": 472,
+      "conversationId": "2018780948889006369",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAQmWG_XoAAW7iy.jpg",
+          "width": 2048,
+          "height": 817,
+          "previewUrl": "https://pbs.twimg.com/media/HAQmWG_XoAAW7iy.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018778265431974076",
+      "text": "#BTC Spent Profit Output Ratio https://t.co/1CflF7vfim",
+      "createdAt": "Tue Feb 03 20:07:00 +0000 2026",
+      "replyCount": 22,
+      "retweetCount": 9,
+      "likeCount": 228,
+      "conversationId": "2018778265431974076",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPR6t9XQAAmNav.jpg",
+          "width": 2048,
+          "height": 813,
+          "previewUrl": "https://pbs.twimg.com/media/HAPR6t9XQAAmNav.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018774188157489562",
+      "text": "BTC / USDT.D\n\nWhat a crazy chart https://t.co/QZuy2GdQsK",
+      "createdAt": "Tue Feb 03 19:50:48 +0000 2026",
+      "replyCount": 191,
+      "retweetCount": 149,
+      "likeCount": 1686,
+      "conversationId": "2018774188157489562",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAQgY0JXEAAE0Mn.jpg",
+          "width": 2048,
+          "height": 1311,
+          "previewUrl": "https://pbs.twimg.com/media/HAQgY0JXEAAE0Mn.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018764888756072475",
+      "text": "$ETH chilling at a modest $2100.\n\nLife not as good.",
+      "createdAt": "Tue Feb 03 19:13:50 +0000 2026",
+      "replyCount": 330,
+      "retweetCount": 345,
+      "likeCount": 10653,
+      "conversationId": "2018764888756072475",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "1379165081708064768",
+        "text": "$ETH chilling at a modest $2100.\n\nLife is good.",
+        "createdAt": "Mon Apr 05 20:12:33 +0000 2021",
+        "replyCount": 57,
+        "retweetCount": 126,
+        "likeCount": 2215,
+        "conversationId": "1379165081708064768",
+        "author": {
+          "username": "intocryptoverse",
+          "name": "Benjamin Cowen"
+        },
+        "authorId": "943506806931734528"
+      }
+    },
+    {
+      "id": "2018764303139037647",
+      "text": "RT @intocryptoverse: *#BTC just dropped below the April 2025 low.*\n\nIf it does not bounce soon, this is going to be one hell of a midterm y…",
+      "createdAt": "Tue Feb 03 19:11:31 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 269,
+      "likeCount": 0,
+      "conversationId": "2018764303139037647",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018763284506177736",
+      "text": "You can see how stablecoin dominance dropped to the bull market support band and has been trending higher ever since.\n\nRespect the charts, ignore the narratives. https://t.co/3Pmb2jg1eU",
+      "createdAt": "Tue Feb 03 19:07:28 +0000 2026",
+      "replyCount": 74,
+      "retweetCount": 61,
+      "likeCount": 947,
+      "conversationId": "2018763284506177736",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "quotedTweet": {
+        "id": "2008998959713575011",
+        "text": "After the current consolidation, it looks like stablecoin dominance will go higher into the summer months https://t.co/cT3VZILWnS",
+        "createdAt": "Wed Jan 07 20:27:32 +0000 2026",
+        "replyCount": 218,
+        "retweetCount": 192,
+        "likeCount": 1681,
+        "conversationId": "2008998959713575011",
+        "author": {
+          "username": "intocryptoverse",
+          "name": "Benjamin Cowen"
+        },
+        "authorId": "943506806931734528",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/G-Fl5XzXkAAjjIH.jpg",
+            "width": 2048,
+            "height": 1318,
+            "previewUrl": "https://pbs.twimg.com/media/G-Fl5XzXkAAjjIH.jpg:small"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAQWPBwWEAAUwTz.jpg",
+          "width": 2048,
+          "height": 1311,
+          "previewUrl": "https://pbs.twimg.com/media/HAQWPBwWEAAUwTz.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018754986226696303",
+      "text": "*#BTC just dropped below the April 2025 low.*\n\nIf it does not bounce soon, this is going to be one hell of a midterm year.\n\nIf it can bounce, it gives us a few months and gets us closer to October without so much bad price action (likely the bottom in time).\n\nI feel like the bear narrative has been really strong for a while, and so I would expect a countertrend rally soon so that it gives the bulls some hope for a while.\n\nHowever, I have learned my lesson in prior cycles, so I do not attempt to trade them. Countertrend rallies can happen, but sometimes they happen when you least expect them, not when everyone expects them. \n\nIt makes sense to assume that a sweep of a prior low would offer some relief, as that has been true for BTC even during the bull market.\n\nBut in 2014/2018/2022 when BTC fell below the 100W SMA, it was straight to the 200W SMA before any relief occurred.\n\nThe time to sell BTC was late last year, not panicking on dumps in the midterm year. \n\nI just try and focus on the bigger picture and the bigger picture is that late Q3/early Q4 will be a better time to move real money back into the market.\n\nBetween now and then it is just people trying to make money during difficult times by trying to trade support/resistance levels.",
+      "createdAt": "Tue Feb 03 18:34:30 +0000 2026",
+      "replyCount": 221,
+      "retweetCount": 269,
+      "likeCount": 3221,
+      "conversationId": "2018754986226696303",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAQNJIFWIAA_-bh.jpg",
+          "width": 2048,
+          "height": 1311,
+          "previewUrl": "https://pbs.twimg.com/media/HAQNJIFWIAA_-bh.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018751307197403535",
+      "text": "If BTC follows prior midterm years, it goes straight to the 200W SMA.\n\nIf BTC follows 2019, it bounces, then goes to 200W SMA in a few months.\n\nEither way, BTC likely ends up at the 200W SMA this year\n\nThe path to get there is challenging, since BTC topped on apathy, not euphoria https://t.co/Cmmq9ZJSWP",
+      "createdAt": "Tue Feb 03 18:19:52 +0000 2026",
+      "replyCount": 271,
+      "retweetCount": 247,
+      "likeCount": 2637,
+      "conversationId": "2018751307197403535",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAQLXWHXUAAdrp5.jpg",
+          "width": 2048,
+          "height": 1311,
+          "previewUrl": "https://pbs.twimg.com/media/HAQLXWHXUAAdrp5.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018749953808732436",
+      "text": "#BTC Net Realized Profit/Loss https://t.co/mlONVQDjMc",
+      "createdAt": "Tue Feb 03 18:14:30 +0000 2026",
+      "replyCount": 15,
+      "retweetCount": 14,
+      "likeCount": 288,
+      "conversationId": "2018749953808732436",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPRhx5WQAE40OB.jpg",
+          "width": 2048,
+          "height": 813,
+          "previewUrl": "https://pbs.twimg.com/media/HAPRhx5WQAE40OB.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018747783952605251",
+      "text": "People are using ISM strength to justify being bullish on Bitcoin. That same data actually argues for being bullish on manufacturing stocks instead.\n\nAnd then if manufacturing stocks do well this year, then perhaps BTC will improve next year as the economy improves?",
+      "createdAt": "Tue Feb 03 18:05:52 +0000 2026",
+      "replyCount": 62,
+      "retweetCount": 20,
+      "likeCount": 496,
+      "conversationId": "2018747783952605251",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018745012951847207",
+      "text": "It has been almost 1200 days since BTC had a 50% drop. \n\nThe last time this counter reset from this long of a run was Feb 2018.\n\nBTC already 40% down. https://t.co/2p2aVpc6Ez",
+      "createdAt": "Tue Feb 03 17:54:52 +0000 2026",
+      "replyCount": 80,
+      "retweetCount": 78,
+      "likeCount": 1126,
+      "conversationId": "2018745012951847207",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAQFBHgXMAAlJrl.jpg",
+          "width": 2048,
+          "height": 844,
+          "previewUrl": "https://pbs.twimg.com/media/HAQFBHgXMAAlJrl.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018741617193299996",
+      "text": "Stocks to drop 10% soon?\nhttps://t.co/BIaJZ0m8Vk",
+      "createdAt": "Tue Feb 03 17:41:22 +0000 2026",
+      "replyCount": 32,
+      "retweetCount": 11,
+      "likeCount": 291,
+      "conversationId": "2018741617193299996",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018735483698749761",
+      "text": "#BTC Puell Multiple https://t.co/BiqPrgO5n6",
+      "createdAt": "Tue Feb 03 17:17:00 +0000 2026",
+      "replyCount": 36,
+      "retweetCount": 16,
+      "likeCount": 276,
+      "conversationId": "2018735483698749761",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPRb5CWIAAwwbd.jpg",
+          "width": 2048,
+          "height": 813,
+          "previewUrl": "https://pbs.twimg.com/media/HAPRb5CWIAAwwbd.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018728185563918551",
+      "text": "#BTC ROI as measured from the peak, compared to the other bear markets that started in Q4 of post-halving years. https://t.co/0EqywyxSEM",
+      "createdAt": "Tue Feb 03 16:48:00 +0000 2026",
+      "replyCount": 60,
+      "retweetCount": 20,
+      "likeCount": 373,
+      "conversationId": "2018728185563918551",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPRGeqXMAA1uSm.jpg",
+          "width": 2048,
+          "height": 813,
+          "previewUrl": "https://pbs.twimg.com/media/HAPRGeqXMAA1uSm.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018715346895573447",
+      "text": "RT @intocryptoverse: So far #BTC YTD ROI is generally tracking prior midterm years. \n\nBecause BTC topped on apathy rather than euphoria, it…",
+      "createdAt": "Tue Feb 03 15:56:59 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 24,
+      "likeCount": 0,
+      "conversationId": "2018715346895573447",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018706223042797971",
+      "text": "Go to https://t.co/Vt5bmyb5Xo and subscribe. Get @missteencrypto  to 25,000 subscribers!!",
+      "createdAt": "Tue Feb 03 15:20:43 +0000 2026",
+      "replyCount": 51,
+      "retweetCount": 7,
+      "likeCount": 168,
+      "conversationId": "2018706223042797971",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018702049844637861",
+      "text": "Bear Markets\n\nPhase 1) Only a few people believe it is starting and are ignored\n\nPhase 2) Half of people believe and those that do not start taunting those that do\n\nPhase 3) No more taunting. Everyone agrees\n\nI think we are in phase 2",
+      "createdAt": "Tue Feb 03 15:04:09 +0000 2026",
+      "replyCount": 343,
+      "retweetCount": 135,
+      "likeCount": 2794,
+      "conversationId": "2018702049844637861",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018701762647978259",
+      "text": "So far #BTC YTD ROI is generally tracking prior midterm years. \n\nBecause BTC topped on apathy rather than euphoria, it is also relevant to compare to 2019, but still, not worth dismissing the midterm year comparison. https://t.co/NmZdqNkQgL",
+      "createdAt": "Tue Feb 03 15:03:00 +0000 2026",
+      "replyCount": 68,
+      "retweetCount": 24,
+      "likeCount": 478,
+      "conversationId": "2018701762647978259",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPQzcBXQAAg2DQ.jpg",
+          "width": 2048,
+          "height": 813,
+          "previewUrl": "https://pbs.twimg.com/media/HAPQzcBXQAAg2DQ.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018700831294464137",
+      "text": "RT @ITC_Crypto: “What’s a few $Trillion among friends?”\n📺https://t.co/sw5VLNwr9l https://t.co/1BGBQOymYS",
+      "createdAt": "Tue Feb 03 14:59:18 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 3,
+      "likeCount": 0,
+      "conversationId": "2018700831294464137",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2018543988211359744/img/P_bhVBrOq-VgSV80.jpg",
+          "width": 1126,
+          "height": 702,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2018543988211359744/img/P_bhVBrOq-VgSV80.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2018543988211359744/vid/avc1/1126x702/aTjejZbWbSvULdhB.mp4?tag=21",
+          "durationMs": 47038
+        }
+      ]
+    },
+    {
+      "id": "2018698952632070390",
+      "text": "Bitcoin: The Beauty of Mathematics (Part 6 7) 🤣\n\nhttps://t.co/qA5XL1oKxG",
+      "createdAt": "Tue Feb 03 14:51:50 +0000 2026",
+      "replyCount": 25,
+      "retweetCount": 13,
+      "likeCount": 254,
+      "conversationId": "2018698952632070390",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018696342214762536",
+      "text": "https://t.co/GuCGCytetq",
+      "createdAt": "Tue Feb 03 14:41:28 +0000 2026",
+      "replyCount": 88,
+      "retweetCount": 15,
+      "likeCount": 669,
+      "conversationId": "2018696342214762536",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPZnsaXkAAs6Ul.png",
+          "width": 500,
+          "height": 756,
+          "previewUrl": "https://pbs.twimg.com/media/HAPZnsaXkAAs6Ul.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2018695536652538036",
+      "text": "RT @ITC_Crypto: #BTC Miner Revenue \nJoin ITC Premium: https://t.co/stpWSCXBGB https://t.co/fyG5sZ7KSr",
+      "createdAt": "Tue Feb 03 14:38:16 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 7,
+      "likeCount": 0,
+      "conversationId": "2018695536652538036",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPYQHZWcAAvlzc.jpg",
+          "width": 2048,
+          "height": 1109,
+          "previewUrl": "https://pbs.twimg.com/media/HAPYQHZWcAAvlzc.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018685767560671692",
+      "text": "The Advance Decline Index of the top 100 cryptocurrencies is still not yet showing signs of life.\n\nWould like to see this thing turn around later this year to provide at least some confidence. https://t.co/q67jwC7BPr",
+      "createdAt": "Tue Feb 03 13:59:27 +0000 2026",
+      "replyCount": 75,
+      "retweetCount": 29,
+      "likeCount": 548,
+      "conversationId": "2018685767560671692",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAPP7WiXkAAxCqW.jpg",
+          "width": 2048,
+          "height": 813,
+          "previewUrl": "https://pbs.twimg.com/media/HAPP7WiXkAAxCqW.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2018528203745427527",
+      "text": "Who is still here?",
+      "createdAt": "Tue Feb 03 03:33:20 +0000 2026",
+      "replyCount": 662,
+      "retweetCount": 41,
+      "likeCount": 3224,
+      "conversationId": "2018528203745427527",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018521130206953634",
+      "text": "RT @StackDempsey: @intocryptoverse YouTube is Ben-Lite.",
+      "createdAt": "Tue Feb 03 03:05:14 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 4,
+      "likeCount": 0,
+      "conversationId": "2018521130206953634",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018505216841134263",
+      "text": "Another example of the ISM not being the best indicator for predicting BTC price action:\n\nJan 2019:\n\nISM: 55.7\nBTC: $3700\n\nJune 2019:\n\nISM: 51.3\nBTC: $13,900\n\nSo in this case the ISM dropped over 6 months and the price of BTC went up 4x.",
+      "createdAt": "Tue Feb 03 02:02:00 +0000 2026",
+      "replyCount": 141,
+      "retweetCount": 42,
+      "likeCount": 733,
+      "conversationId": "2018505216841134263",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018495121860215073",
+      "text": "In case you have not figured it out yet, youtube ben and twitter ben are 2 very different people.",
+      "createdAt": "Tue Feb 03 01:21:53 +0000 2026",
+      "replyCount": 174,
+      "retweetCount": 17,
+      "likeCount": 1693,
+      "conversationId": "2018495121860215073",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    },
+    {
+      "id": "2018490997689528413",
+      "text": "Please, have a seat https://t.co/RMtGjA7r6q",
+      "createdAt": "Tue Feb 03 01:05:30 +0000 2026",
+      "replyCount": 46,
+      "retweetCount": 23,
+      "likeCount": 1111,
+      "conversationId": "2018490997689528413",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HALn0nQWAAA_MET.png",
+          "width": 786,
+          "height": 194,
+          "previewUrl": "https://pbs.twimg.com/media/HALn0nQWAAA_MET.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2018483044433502419",
+      "text": "2026 is the year where all the memecoin overlords become macro gurus",
+      "createdAt": "Tue Feb 03 00:33:54 +0000 2026",
+      "replyCount": 120,
+      "retweetCount": 37,
+      "likeCount": 1166,
+      "conversationId": "2018483044433502419",
+      "author": {
+        "username": "intocryptoverse",
+        "name": "Benjamin Cowen"
+      },
+      "authorId": "943506806931734528"
+    }
+  ],
+  "nextCursor": "DAAHCgABHAhMBcF__5oLAAIAAAATMjAxODQ4MzA0NDQzMzUwMjQxOQgAAwAAAAIAAA"
+}
